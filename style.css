@@ -1,0 +1,25 @@
+body  {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img{
+    height : 300px;
+    width: 1000px;
+    object-fit: cover;
+}
+td{
+    font-family: 'Sora', sans-serif;
+}
+
+.recipe-img{
+    text-align: right;
+}
+th{
+    font-family : 'Lexend Deca', sans-serif;
+    font-size: 6vw;
+    line-height: 10vw;
+}
+
+.recipe-title{
+    margin-top: 20px;
+}
